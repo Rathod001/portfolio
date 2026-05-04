@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Rathod001/portfolio/static/css/main.036c5796.css",
-    "main.js": "/Rathod001/portfolio/static/js/main.34f4ef9c.js",
-    "index.html": "/Rathod001/portfolio/index.html",
-    "main.036c5796.css.map": "/Rathod001/portfolio/static/css/main.036c5796.css.map",
-    "main.34f4ef9c.js.map": "/Rathod001/portfolio/static/js/main.34f4ef9c.js.map"
+    "main.css": "/portfolionpm%20/static/css/main.036c5796.css",
+    "main.js": "/portfolionpm%20/static/js/main.34f4ef9c.js",
+    "index.html": "/portfolionpm%20/index.html",
+    "main.036c5796.css.map": "/portfolionpm%20/static/css/main.036c5796.css.map",
+    "main.34f4ef9c.js.map": "/portfolionpm%20/static/js/main.34f4ef9c.js.map"
   },
   "entrypoints": [
     "static/css/main.036c5796.css",
